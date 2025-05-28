@@ -53,6 +53,8 @@ def sumar():
 def cualquier_funcion():
     pass
 
+""" O tambien sirve el ..."""
+
    
 cualquier_funcion()
 
