@@ -1,0 +1,13 @@
+se puede crear un setup.py para hacer paquetes para otros desarrolladores
+con setup.py
+
+pip install setuptools
+
+from setuptools import setup
+
+setup(
+    name="mi_primer_paquete",
+    version="0.1",
+    description="Mi primer paquete",
+    author
+)
